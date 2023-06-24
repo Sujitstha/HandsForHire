@@ -1,0 +1,116 @@
+
+
+.web-services {
+    min-height: 150vh;
+    padding: 10px;
+    /* background-color: #ffffff; */
+}
+
+
+.web-service-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.web-service1-item-1{
+    flex: 50%;
+    margin-left: 200px;
+}
+
+.web-service1-item-2{
+    flex: 50%;
+    margin-left: 200px;
+}
+
+
+.web-service1-image{
+    background-image: url(https://images.pexels.com/photos/9666305/pexels-photo-9666305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    height: 453px;
+    width: 415px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 22px;
+}
+
+.web-service-title {
+    font-size: 42px;
+    font-weight: 400;
+}
+
+.web-service1-item-1 ul {
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.web-service1-item-1 ul li {
+    padding: 10px;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.web-service-button {
+    color: #ffffff;
+    border: none;
+    background-color: #F53E3E;
+    width: 180px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 300;
+    /* height: 50px; */
+    border-radius: 3px;
+    margin-left: 80px;
+}
+
+.web-service-button:hover{
+    color: black;
+    background-color: orange;
+}
+
+.web-service-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.web-service2-item-1{
+    flex: 50%;
+    margin-left: 200px;
+}
+
+.web-service2-item-2 {
+    flex: 50%;
+    margin-left: 200px;
+}
+
+.web-service2-item-2 ul {
+    padding: 10px;
+    margin-left: 30px;
+}
+
+
+.web-service2-image {
+    background-image: url(https://images.pexels.com/photos/9875422/pexels-photo-9875422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    height: 453px;
+    width: 415px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 22px;
+}
+
+.un-list-style{
+    list-style-type: disc;
+    color: #000;
+}
+
+.li-item {
+    color: #000;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 500;
+    color: #000;
+}
